@@ -7,4 +7,7 @@ function b(x) {
 	console.log(x);
 }
 mmm
+function c(x) {
+	console.log(x);
+}
 nnn
