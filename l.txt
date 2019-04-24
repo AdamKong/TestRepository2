@@ -1,3 +1,10 @@
+
+function a(x) {
+	console.log(x);
+}
 lll
+function b(x) {
+	console.log(x);
+}
 mmm
 nnn
