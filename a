@@ -17,3 +17,9 @@ function c(x) {
 }
 
 333
+
+function d(x) {
+	console.log(x);
+	var m = "I like panda";
+	console.log(m);
+}
