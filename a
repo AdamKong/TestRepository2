@@ -12,6 +12,8 @@ function b(x) {
 
 function c(x) {
 	console.log(x);
+	var i = 10;
+	console.log(i);
 }
 
 333
